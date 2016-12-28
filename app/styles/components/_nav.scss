@@ -1,3 +1,20 @@
-.menu>li>a {
+.menu > li > a {
   display: inline;
+}
+
+p {
+  color: $nav-grey
+}
+
+span {
+  color: $nav-blue;
+  font-weight: bold;
+}
+
+.menu-text {
+  color: $nav-white;;
+}
+
+.top-bar, .top-bar ul {
+  background-color: $nav-black;
 }
