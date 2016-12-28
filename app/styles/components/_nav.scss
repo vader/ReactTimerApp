@@ -18,3 +18,10 @@ span {
 .top-bar, .top-bar ul {
   background-color: $nav-black;
 }
+
+.top-bar {
+  .active-link {
+    font-weight: bold;
+    color: white;
+  }
+}
