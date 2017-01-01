@@ -18,8 +18,8 @@ var CountdownForm = React.createClass({
           <button className="button expanded">start</button>
         </form>
       </div>
-    )
-  }
+    );
+  },
 });
 
 module.exports = CountdownForm;
