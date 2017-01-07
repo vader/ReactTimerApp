@@ -6,10 +6,8 @@ var Countdown = require('Countdown');
 var Timer = require('Timer');
 
 // Load foundation
-require('style!css!foundation-sites/dist/css/foundation.min.css');
 
 // Start foundation select document using jquery and call the foundation method
-
 $(document).foundation();
 
 //app.css
